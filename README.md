@@ -37,3 +37,4 @@ yer alacaktır.
 - CSS ,
 - JS ,
 ## Projemizin raporunu incelemek için [buraya](https://github.com/yemrecoskun/KisiselWebSitesi/blob/master/RAPOR.pdf) tıklayınız.
+## To review the report of our project [here](https://github.com/yemrecoskun/KisiselWebSitesi/blob/master/RAPOR.pdf) click here.
