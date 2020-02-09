@@ -35,3 +35,5 @@ features and Video Download button/feature will be available.
 - HTML ,
 - CSS ,
 - JS ,
+
+## To review the report of our project [here](https://github.com/yemrecoskun/KisiselWebSitesi/blob/master/RAPOR.pdf) click here.
