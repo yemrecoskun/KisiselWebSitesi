@@ -1,3 +1,4 @@
+# English Readme: [README-EN.md](https://github.com/yemrecoskun/KisiselWebSitesi/blob/master/README-EN.md)
 # KisiselWebSitesi
 ## Projede istenilenler aşağıdaki gibidir;
 - Responsive olmalı
