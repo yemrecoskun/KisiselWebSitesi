@@ -1,7 +1,7 @@
 # KisiselWebSitesi
 ## Projede istenilenler aşağıdaki gibidir;
 - Responsive olmalı
--Tüm sayfalarda header+footer alanları bulunacak.
+- Tüm sayfalarda header+footer alanları bulunacak.
   - Header: Sayfa başlığı ve logo olacaktır.
   - Footer: hakkında bilgilendirme, Copyright bilgilendirmesi, iletişim adresleri  olacaktır.
 - En az 3 menü seçeneği olacaktır.
