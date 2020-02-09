@@ -43,4 +43,3 @@ yayınlanan bir video olacaktır.
 - HTML ,
 - CSS ,
 - JS ,
-- jsPDF,
